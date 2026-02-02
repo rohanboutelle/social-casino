@@ -1,0 +1,96 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - button "💡" [ref=e2] [cursor=pointer]
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - heading "🎰 Social Casino" [level=1] [ref=e5]
+      - generic [ref=e7]: "Balance: $1,000.00"
+    - generic [ref=e8]:
+      - button "← Back to Lobby" [ref=e10] [cursor=pointer]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - heading "Craps Table" [level=3] [ref=e14]
+          - generic [ref=e15]:
+            - generic [ref=e16]: "?"
+            - generic [ref=e17]: "?"
+          - generic [ref=e18]: "Point: OFF"
+        - generic [ref=e19]:
+          - button "$1" [ref=e20] [cursor=pointer]
+          - button "$5" [ref=e21] [cursor=pointer]
+          - button "$25" [ref=e22] [cursor=pointer]
+          - button "$50" [ref=e23] [cursor=pointer]
+          - button "$100" [ref=e24] [cursor=pointer]
+          - button "$500" [ref=e25] [cursor=pointer]
+          - button "$1k" [ref=e26] [cursor=pointer]
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: PASS LINE
+              - generic [ref=e31]: $0
+            - generic [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]: DON'T PASS BAR
+              - generic [ref=e34]: $0
+          - generic [ref=e35] [cursor=pointer]:
+            - generic [ref=e36]: FIELD (2, 3, 4, 9, 10, 11, 12) - 2:1 on 2 & 12
+            - generic [ref=e37]: $0
+          - generic [ref=e38]:
+            - generic [ref=e39]: PLACE BETS
+            - generic [ref=e40]:
+              - generic [ref=e41] [cursor=pointer]:
+                - generic [ref=e42]: "4"
+                - generic [ref=e43]: 9:5
+                - generic [ref=e44]: $0
+              - generic [ref=e45] [cursor=pointer]:
+                - generic [ref=e46]: "5"
+                - generic [ref=e47]: 7:5
+                - generic [ref=e48]: $0
+              - generic [ref=e49] [cursor=pointer]:
+                - generic [ref=e50]: "6"
+                - generic [ref=e51]: 7:6
+                - generic [ref=e52]: $0
+              - generic [ref=e53] [cursor=pointer]:
+                - generic [ref=e54]: "8"
+                - generic [ref=e55]: 7:6
+                - generic [ref=e56]: $0
+              - generic [ref=e57] [cursor=pointer]:
+                - generic [ref=e58]: "9"
+                - generic [ref=e59]: 7:5
+                - generic [ref=e60]: $0
+              - generic [ref=e61] [cursor=pointer]:
+                - generic [ref=e62]: "10"
+                - generic [ref=e63]: 9:5
+                - generic [ref=e64]: $0
+          - generic [ref=e65]:
+            - generic [ref=e66]: HARDWAYS
+            - generic [ref=e67]:
+              - generic [ref=e68] [cursor=pointer]:
+                - generic [ref=e69]: Hard 4 (7:1)
+                - generic [ref=e70]: $0
+              - generic [ref=e71] [cursor=pointer]:
+                - generic [ref=e72]: Hard 6 (9:1)
+                - generic [ref=e73]: $0
+              - generic [ref=e74] [cursor=pointer]:
+                - generic [ref=e75]: Hard 8 (9:1)
+                - generic [ref=e76]: $0
+              - generic [ref=e77] [cursor=pointer]:
+                - generic [ref=e78]: Hard 10 (7:1)
+                - generic [ref=e79]: $0
+          - generic [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - generic [ref=e82]: ANY SEVEN (4:1)
+              - generic [ref=e83]: $0
+            - generic [ref=e84] [cursor=pointer]:
+              - generic [ref=e85]: ANY CRAPS (7:1)
+              - generic [ref=e86]: $0
+            - generic [ref=e87] [cursor=pointer]:
+              - generic [ref=e88]: HORN (30:1/15:1)
+              - generic [ref=e89]: $0
+        - generic [ref=e90]:
+          - button "Clear Bets" [ref=e91] [cursor=pointer]
+          - button "Roll Dice" [active] [ref=e92] [cursor=pointer]
+          - generic [ref=e93]: "Total Bet: $0.00"
+  - generic [ref=e95]: Place a bet first
+  - generic [ref=e96]: Place a bet first
+```
