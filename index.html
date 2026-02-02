@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Casino</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/games.css">
+  <link rel="stylesheet" href="css/ai-hints.css">
+</head>
+<body>
+  <!-- AI Hint Button -->
+  <button class="hint-button" id="hint-button" title="Get AI Hint">💡</button>
+  <div class="hint-box" id="hint-box"></div>
+
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <h1>🎰 Social Casino</h1>
+      <div class="header-right">
+        <div class="balance-display">
+          Balance: <span id="balance-display">$1,000.00</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Lobby Container -->
+    <main id="lobby-container" class="lobby-container">
+      <div class="lobby-content">
+        <h2>Select a Game</h2>
+        <div class="games-grid">
+          <button class="game-btn" data-game="Blackjack">
+            <div class="game-icon">🂡</div>
+            <div class="game-name">Blackjack</div>
+            <div class="game-desc">Get closer to 21 than the dealer</div>
+          </button>
+          <button class="game-btn" data-game="Baccarat">
+            <div class="game-icon">🃏</div>
+            <div class="game-name">Baccarat</div>
+            <div class="game-desc">Bet on Player, Banker, or Tie</div>
+          </button>
+          <button class="game-btn" data-game="Craps">
+            <div class="game-icon">🎲</div>
+            <div class="game-name">Craps</div>
+            <div class="game-desc">Roll the dice and beat the house</div>
+          </button>
+          <button class="game-btn" data-game="Pai Gow">
+            <div class="game-icon">🂮</div>
+            <div class="game-name">Pai Gow Poker</div>
+            <div class="game-desc">Split 7 cards into two hands</div>
+          </button>
+        </div>
+        <div class="lobby-controls">
+          <button id="reset-balance-btn" class="btn btn-secondary">Reset Balance</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Game Container -->
+    <div id="game-container" class="game-container" style="display: none;">
+      <div class="game-header">
+        <button id="return-lobby-btn" class="btn btn-back">← Back to Lobby</button>
+      </div>
+      <div id="game-content" class="game-content"></div>
+    </div>
+  </div>
+
+  <!-- Notification Container -->
+  <div id="notifications-container"></div>
+
+  <!-- Reset Balance Modal -->
+  <div id="reset-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-content">
+      <h3>Are you sure you want to reset your balance to $1,000?</h3>
+      <div class="modal-buttons">
+        <button id="modal-no-btn" class="btn-modal btn-modal-no">No</button>
+        <button id="modal-yes-btn" class="btn-modal btn-modal-yes">Yes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/wallet.js?v=2"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/lobby.js"></script>
+  <script src="games/blackjack.js"></script>
+  <script src="games/baccarat.js"></script>
+  <script src="games/craps.js"></script>
+  <script src="games/paigow.js"></script>
+  <script src="js/ai-hints.js"></script>
+</body>
+</html>

@@ -1,0 +1,178 @@
+
+Running 1 test using 1 worker
+
+Starting simulation of 50 resolved bets...
+Completed 10/50 bets. Balance: $1000.00
+Completed 20/50 bets. Balance: $1000.00
+Completed 30/50 bets. Balance: $1000.00
+Error on bet 40: page.waitForTimeout: Test timeout of 120000ms exceeded.
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:54:20 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts',
+      line: 54,
+      column: 20
+    },
+    category: 'pw:api',
+    title: 'Wait for timeout',
+    apiName: 'page.waitForTimeout',
+    params: { waitTimeout: 100 },
+    group: undefined,
+    stepId: 'pw:api@656',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@656',
+      _title: 'Wait for timeout',
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769899696469,
+    error: {
+      message: 'Error: page.waitForTimeout: Test timeout of 120000ms exceeded.',
+      stack: 'Error: page.waitForTimeout: Test timeout of 120000ms exceeded.\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:54:20',
+      cause: undefined
+    }
+  }
+}
+Error on bet 41: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@660',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@660',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769899696477,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on bet 42: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@661',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@661',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769899696479,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on bet 43: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 44: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 45: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 46: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 47: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 48: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 49: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+Error on bet 50: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_craps.spec.ts:24:48
+
+=== CRAPS SIMULATION RESULTS ===
+Date: 1/31/2026, 2:48:16 PM
+Total Bets Resolved: 50
+Total Dice Rolls: 104
+Average Rolls per Bet: 2.08
+Wins: 17
+Losses: 22
+Pushes: 0
+Win Rate: 43.59%
+
+FINANCIAL RESULTS:
+Starting Balance: $1000.00
+Ending Balance: $0
+Net Profit/Loss: $-25.00
+Total Wagered: $200.00
+
+HOUSE EDGE:
+Actual House Edge: 12.5000%
+Expected (Pass Line): 1.41%
+
+Detailed results saved to: craps-simulation-2026-01-31-detailed.json
+
+
+Results saved to:
+  - craps-simulation-2026-01-31-summary.txt
+  - craps-simulation-2026-01-31-detailed.json
+  ✘  1 [chromium] › simulate_craps.spec.ts:5:5 › Simulate 100 Craps Rolls - House Edge Verification (2.0m)
+
+
+  1) [chromium] › simulate_craps.spec.ts:5:5 › Simulate 100 Craps Rolls - House Edge Verification ──
+
+    [31mTest timeout of 120000ms exceeded.[39m
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/simulate_craps-Simulate-10-b7148-s---House-Edge-Verification-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/simulate_craps-Simulate-10-b7148-s---House-Edge-Verification-chromium/error-context.md
+
+  1 failed
+    [chromium] › simulate_craps.spec.ts:5:5 › Simulate 100 Craps Rolls - House Edge Verification ───

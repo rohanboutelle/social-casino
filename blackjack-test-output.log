@@ -1,0 +1,2158 @@
+
+Running 1 test using 1 worker
+
+Starting simulation of 1000 blackjack hands...
+Error on hand 1: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@39',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@39',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918342492,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 2: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@41',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@41',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918352525,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 3: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@43',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@43',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918362545,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 4: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@45',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@45',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918372575,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 5: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@47',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@47',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918382591,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 6: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@49',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@49',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918392610,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 7: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@51',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@51',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918402626,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 8: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@53',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@53',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918412636,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 9: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@55',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@55',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918422649,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 10: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@57',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@57',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918432659,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 11: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@59',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@59',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918442669,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 12: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@61',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@61',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918452681,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 13: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@63',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@63',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918462690,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 14: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@65',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@65',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918472702,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 15: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@67',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@67',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918482715,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 16: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@69',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@69',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918492726,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 17: locator.click: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@71',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@71',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918502735,
+    error: {
+      message: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'TimeoutError: locator.click: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 18: locator.click: Test timeout of 180000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-value="5"]').first()[22m
+
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 29,
+      column: 19
+    },
+    category: 'pw:api',
+    title: `Click locator('[data-value="5"]').first()`,
+    apiName: 'locator.click',
+    params: {
+      selector: '[data-value="5"] >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: undefined,
+    stepId: 'pw:api@73',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@73',
+      _title: `Click locator('[data-value="5"]').first()`,
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510841,
+    error: {
+      message: 'Error: locator.click: Test timeout of 180000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n`,
+      stack: 'Error: locator.click: Test timeout of 180000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('[data-value="5"]').first()\x1B[22m\n` +
+        '\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:29:19',
+      cause: undefined
+    }
+  }
+}
+Error on hand 19: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@78',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@78',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510842,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 20: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@79',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@79',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510842,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 21: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@80',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@80',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510843,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 22: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@81',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@81',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510843,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 23: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@82',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@82',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510844,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 24: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@83',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@83',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510844,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 25: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@84',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@84',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510845,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 26: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@85',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@85',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510845,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 27: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@86',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@86',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510846,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 28: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@87',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@87',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510847,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 29: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@88',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@88',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510850,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 30: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@89',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@89',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510852,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 31: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@90',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@90',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510853,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 32: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@91',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@91',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510853,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 33: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@92',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@92',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510854,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 34: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@93',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@93',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510854,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 35: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@94',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@94',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510855,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 36: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@95',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@95',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510856,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 37: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@96',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@96',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510856,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 38: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@97',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@97',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510857,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 39: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@98',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@98',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510858,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 40: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@99',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@99',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510858,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 41: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@100',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@100',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510859,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 42: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@101',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@101',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510859,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 43: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@102',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@102',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510860,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 44: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48 {
+  [Symbol(step)]: {
+    location: {
+      file: '/Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts',
+      line: 24,
+      column: 48
+    },
+    category: 'pw:api',
+    title: "Get text content locator('#balance-display').first()",
+    apiName: 'locator.textContent',
+    params: {
+      selector: '#balance-display >> nth=0',
+      strict: true,
+      timeout: 10000
+    },
+    group: 'getter',
+    stepId: 'pw:api@103',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@103',
+      _title: "Get text content locator('#balance-display').first()",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1769918510861,
+    error: {
+      message: 'Error: locator.textContent: Target page, context or browser has been closed',
+      stack: 'Error: locator.textContent: Target page, context or browser has been closed\n' +
+        '    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48',
+      cause: undefined
+    }
+  }
+}
+Error on hand 45: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 46: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 47: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 48: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 49: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 50: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 51: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 52: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 53: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 54: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 55: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 56: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 57: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 58: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 59: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 60: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 61: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 62: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 63: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 64: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 65: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 66: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 67: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 68: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 69: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 70: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 71: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 72: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 73: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 74: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 75: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 76: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 77: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 78: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 79: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 80: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 81: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 82: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 83: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 84: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 85: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 86: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 87: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 88: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 89: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 90: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 91: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 92: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 93: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 94: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 95: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 96: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 97: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 98: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 99: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 100: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 101: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 102: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 103: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 104: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 105: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 106: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 107: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 108: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 109: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 110: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 111: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 112: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 113: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 114: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 115: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 116: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 117: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 118: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 119: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 120: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 121: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 122: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 123: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 124: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 125: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 126: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 127: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 128: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 129: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 130: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 131: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 132: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 133: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 134: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 135: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 136: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 137: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 138: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 139: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 140: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 141: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 142: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 143: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 144: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 145: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 146: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 147: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 148: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 149: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 150: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 151: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 152: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 153: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 154: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 155: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 156: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 157: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 158: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 159: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 160: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 161: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 162: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 163: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 164: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 165: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+  ✘  1 [chromium] › simulate_blackjack.spec.ts:5:5 › Simulate 1000 Blackjack Hands - House Edge Verification (3.0m)
+Error on hand 166: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 167: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 168: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 169: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 170: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 171: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 172: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 173: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 174: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+Error on hand 175: locator.textContent: Target page, context or browser has been closed
+    at /Users/rohanboutelle/Desktop/social-casino/simulate_blackjack.spec.ts:24:48
+
+
+  1) [chromium] › simulate_blackjack.spec.ts:5:5 › Simulate 1000 Blackjack Hands - House Edge Verification 
+
+    [31mTest timeout of 180000ms exceeded.[39m
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/simulate_blackjack-Simulat-ab679-s---House-Edge-Verification-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/simulate_blackjack-Simulat-ab679-s---House-Edge-Verification-chromium/error-context.md
+
+  1 failed
+    [chromium] › simulate_blackjack.spec.ts:5:5 › Simulate 1000 Blackjack Hands - House Edge Verification 

@@ -1,0 +1,22 @@
+
+=== CRAPS SIMULATION RESULTS ===
+Date: 1/31/2026, 2:51:39 PM
+Total Bets Resolved: 50
+Total Dice Rolls: 163
+Average Rolls per Bet: 3.26
+Wins: 30
+Losses: 18
+Pushes: 0
+Win Rate: 62.50%
+
+FINANCIAL RESULTS:
+Starting Balance: $1000.00
+Ending Balance: $0
+Net Profit/Loss: $60.00
+Total Wagered: $245.00
+
+HOUSE EDGE:
+Actual House Edge: -24.4898%
+Expected (Pass Line): 1.41%
+
+Detailed results saved to: craps-simulation-2026-01-31-detailed.json

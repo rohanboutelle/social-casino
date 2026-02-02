@@ -1,0 +1,412 @@
+{
+  "summary": {
+    "totalBets": 50,
+    "totalRollsToResolve": 163,
+    "avgRollsPerBet": "3.26",
+    "wins": 30,
+    "losses": 18,
+    "pushes": 0,
+    "winRate": "62.50%",
+    "startBalance": "$1000.00",
+    "endBalance": "$0",
+    "netProfit": "$60.00",
+    "totalWagered": "$245.00",
+    "actualHouseEdge": "-24.4898%",
+    "expectedPassLineEdge": "1.41%",
+    "completedAt": "2026-01-31T22:51:39.072Z"
+  },
+  "results": [
+    {
+      "bet": 1,
+      "rollsToResolve": 4,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 2,
+      "rollsToResolve": 4,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 3,
+      "rollsToResolve": 7,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "995.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 4,
+      "rollsToResolve": 3,
+      "balanceBefore": "995.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 5,
+      "rollsToResolve": 5,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 6,
+      "rollsToResolve": 5,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1010.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 7,
+      "rollsToResolve": 1,
+      "balanceBefore": "1010.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 8,
+      "rollsToResolve": 4,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 9,
+      "rollsToResolve": 1,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 10,
+      "rollsToResolve": 5,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 11,
+      "rollsToResolve": 3,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "995.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 12,
+      "rollsToResolve": 5,
+      "balanceBefore": "995.00",
+      "balanceAfter": "990.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 13,
+      "rollsToResolve": 4,
+      "balanceBefore": "990.00",
+      "balanceAfter": "995.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 14,
+      "rollsToResolve": 2,
+      "balanceBefore": "995.00",
+      "balanceAfter": "990.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 15,
+      "rollsToResolve": 1,
+      "balanceBefore": "990.00",
+      "balanceAfter": "995.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 16,
+      "rollsToResolve": 1,
+      "balanceBefore": "995.00",
+      "balanceAfter": "990.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 17,
+      "rollsToResolve": 6,
+      "balanceBefore": "990.00",
+      "balanceAfter": "985.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 18,
+      "rollsToResolve": 4,
+      "balanceBefore": "985.00",
+      "balanceAfter": "990.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 19,
+      "rollsToResolve": 1,
+      "balanceBefore": "990.00",
+      "balanceAfter": "995.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 20,
+      "rollsToResolve": 1,
+      "balanceBefore": "995.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 21,
+      "rollsToResolve": 9,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 22,
+      "rollsToResolve": 1,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1000.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 23,
+      "rollsToResolve": 1,
+      "balanceBefore": "1000.00",
+      "balanceAfter": "1005.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 24,
+      "rollsToResolve": 11,
+      "balanceBefore": "1005.00",
+      "balanceAfter": "1010.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 25,
+      "rollsToResolve": 3,
+      "balanceBefore": "1010.00",
+      "balanceAfter": "1015.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 26,
+      "rollsToResolve": 1,
+      "balanceBefore": "1015.00",
+      "balanceAfter": "1020.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 27,
+      "rollsToResolve": 5,
+      "balanceBefore": "1020.00",
+      "balanceAfter": "1025.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 28,
+      "rollsToResolve": 2,
+      "balanceBefore": "1025.00",
+      "balanceAfter": "1030.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 29,
+      "rollsToResolve": 1,
+      "balanceBefore": "1030.00",
+      "balanceAfter": "1035.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 30,
+      "rollsToResolve": 2,
+      "balanceBefore": "1035.00",
+      "balanceAfter": "1040.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 31,
+      "rollsToResolve": 7,
+      "balanceBefore": "1040.00",
+      "balanceAfter": "1045.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 32,
+      "rollsToResolve": 7,
+      "balanceBefore": "1045.00",
+      "balanceAfter": "1050.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 33,
+      "rollsToResolve": 3,
+      "balanceBefore": "1050.00",
+      "balanceAfter": "1045.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 34,
+      "rollsToResolve": 1,
+      "balanceBefore": "1045.00",
+      "balanceAfter": "1050.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 35,
+      "rollsToResolve": 1,
+      "balanceBefore": "1050.00",
+      "balanceAfter": "1045.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 36,
+      "rollsToResolve": 2,
+      "balanceBefore": "1045.00",
+      "balanceAfter": "1050.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 37,
+      "rollsToResolve": 2,
+      "balanceBefore": "1050.00",
+      "balanceAfter": "1055.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 38,
+      "rollsToResolve": 1,
+      "balanceBefore": "1055.00",
+      "balanceAfter": "1060.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 39,
+      "rollsToResolve": 4,
+      "balanceBefore": "1060.00",
+      "balanceAfter": "1065.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 40,
+      "rollsToResolve": 1,
+      "balanceBefore": "1065.00",
+      "balanceAfter": "1060.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 41,
+      "rollsToResolve": 4,
+      "balanceBefore": "1060.00",
+      "balanceAfter": "1065.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 42,
+      "rollsToResolve": 12,
+      "balanceBefore": "1065.00",
+      "balanceAfter": "1060.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 43,
+      "rollsToResolve": 1,
+      "balanceBefore": "1060.00",
+      "balanceAfter": "1055.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 44,
+      "rollsToResolve": 1,
+      "balanceBefore": "1055.00",
+      "balanceAfter": "1060.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 45,
+      "rollsToResolve": 2,
+      "balanceBefore": "1060.00",
+      "balanceAfter": "1055.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 46,
+      "rollsToResolve": 3,
+      "balanceBefore": "1055.00",
+      "balanceAfter": "1050.00",
+      "profitLoss": "-5.00",
+      "result": "LOSS"
+    },
+    {
+      "bet": 47,
+      "rollsToResolve": 1,
+      "balanceBefore": "1050.00",
+      "balanceAfter": "1055.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 48,
+      "rollsToResolve": 7,
+      "balanceBefore": "1055.00",
+      "balanceAfter": "1060.00",
+      "profitLoss": "5.00",
+      "result": "WIN"
+    },
+    {
+      "bet": 49,
+      "error": "Error: page.waitForTimeout: Test timeout of 180000ms exceeded."
+    },
+    {
+      "bet": 50,
+      "error": "Error: locator.textContent: Target page, context or browser has been closed"
+    }
+  ]
+}
