@@ -4,7 +4,7 @@
 
 class AIHints {
     constructor() {
-        this.OPENROUTER_API_KEY = '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'; // Add your OpenRouter API key here
+        this.OPENROUTER_API_KEY = 'OPENROUTER KEY HERE'; // Add your OpenRouter API key here
         this.isThinking = false;
     }
 
